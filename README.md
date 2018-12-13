@@ -11,14 +11,15 @@ value weight
 
 
 Run:
-'''
+```
 python main.py
-'''
+```
 
-after that, just type the knapsack number like
-'''
+
+after that, just type the knapsack number like:
+```
 1
-'''
+```
 
 
-have fun xd
+***have fun xd***
