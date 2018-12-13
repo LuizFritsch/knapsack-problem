@@ -5,7 +5,7 @@
 So im Trying to solve knapsack problem with python
 
 
-Knapsack1, Knapsack2 and Knapsack3 follows these patterns:
+Knapsack1, Knapsack2 and Knapsack3 files follows these patterns:
 
 value weight
 
